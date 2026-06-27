@@ -1,0 +1,7 @@
+{
+  "name": "SakuCheck AI",
+  "description": "Advanced plant pathology diagnostic tool for Hokkaido agriculture, utilizing Gemini to analyze crop images and provide actionable, region-specific advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

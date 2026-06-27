@@ -1,6 +1,6 @@
 # Vertex AI Studio Frontend App with Node.js Backend
 
-This repository contains a frontend and a Node.js backend, designed to run together.
+This repository is an advanced, expert plant pathologist at "SakuCheck" (サクチェック) AI specializing in the sub-arctic and dry-field agriculture of Hokkaido, Japan. It contains a frontend and a Node.js backend, designed to run together.
 The backend acts as a proxy, handling Google Cloud API calls.
 
 This project is intended for demonstration and prototyping purposes only.
